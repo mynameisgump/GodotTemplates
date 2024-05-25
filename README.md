@@ -1,2 +1,3 @@
-# GodotTemplates
-A repo containing different template scripts for re-use in future projects
+# Godot Templates 
+A collection of different templates/scripts to take from for game jams that I opt to use with godot. 
+
